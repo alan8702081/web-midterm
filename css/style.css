@@ -3,6 +3,7 @@
   height:46px;
   width:1px;
   background-color: #fff;
+  float: left;
 }
 .intro-left-name{
 float:left;
@@ -15,19 +16,19 @@ font-size: 30px;
   clear:both;
   display: block;
 }
-.line{
-  position:relative;
+/*.line{*/
+  /*position:relative;
 left:50%;
-}
+}*/
 .intro-right-name{
   position: relative;
   top:-45px;
   left:130px;
   font-size: 30px;
 }
-.intro-heading{
+/*.intro-heading{
   margin-top: -50px;
-}
+}*/
 footer .height{
   height:100px;
   background-color: #000;
