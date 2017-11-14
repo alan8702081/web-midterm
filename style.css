@@ -1,0 +1,159 @@
+
+.line{
+  height:46px;
+  width:1px;
+  background-color: #fff;
+  float: left;
+}
+.intro-left-name{
+float:left;
+position: absolute;
+left:520px;
+font-size: 30px;
+}
+.intro-left-name:after{
+  content: :'';
+  clear:both;
+  display: block;
+}
+/*.line{*/
+  /*position:relative;
+left:50%;
+}*/
+.intro-right-name{
+  position: relative;
+  top:-45px;
+  left:130px;
+  font-size: 30px;
+}
+/*.intro-heading{
+  margin-top: -50px;
+}*/
+footer .height{
+  height:100px;
+  background-color: #000;
+  padding:0 0;
+}
+footer img {
+  padding-top: 12px;
+  position: relative;
+  left:-50px;
+};
+footer{
+  padding:0 ;
+}
+.section-heading{
+
+  padding-bottom: 80px;
+}
+.about_left{
+  float:right;
+}
+.about_right{
+  float:left;
+}
+.about_left img {
+float:right;
+margin-bottom: 30px;
+}
+.about_right img {
+float:left;
+margin-bottom: 30px;
+}
+.bar_box{
+  height:30px;
+  background-color: red;
+}
+.words{
+  float:left;
+}
+.number_3{
+  position: relative;
+  left: -12px;
+}
+.number_1{
+  position: relative;
+  left: -15px;
+}
+.name{
+  position: relative;
+  top:-40px;
+  left:480px;
+}
+.name_1{
+  position: relative;
+  top:-40px;
+  left:460px;
+}
+.name_2{
+  position: relative;
+  left: 20px;
+}
+.bar_box{
+position: relative;
+top:40px;
+background-color: #333;
+}
+.bar_box_2{
+  height:30px;
+  width:410px;
+  background-color: #F8D257;
+  float:right;
+  position: absolute;
+  right:0;
+}
+
+.bar:after{
+  content:'';
+  clear:both;
+  display: inline-block;
+
+}
+.bar_box_3{
+  height:30px;
+  width:410px;
+  background-color: #F8D257;
+  float:left;
+  position: absolute;
+  left:0
+}
+.bar_box_2-3{
+  width:100px;
+}
+.bar_box_3-2{
+  width:270px;
+}
+.bar_box_3-3{
+  width:320px;
+}
+.team-member{
+
+}
+.fixed_1{
+  position: absolute;
+  top:0;
+  left:470px;
+}
+.team-mamber .number_2 .name{
+  left:400px;
+}
+.CU-team-member{
+
+}
+.a_content{
+  text-align: right;
+}
+.name_fixed_2{
+  position: relative;
+  top:-40px;
+  left:495px;
+}
+.copyright{
+  font-size: 10px;
+  float: left;
+  color: #666;
+  position: relative;
+  left: 46.7%;
+  top: 78%;
+  text-align: center;
+}
